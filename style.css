@@ -241,6 +241,8 @@ a {
 }
 @keyframes background-imease {
   0% {
+     background-image: url("https://media.istockphoto.com/id/475166492/photo/summer-background-page.jpg?s=612x612&w=0&k=20&c=18t8tZ5-CIsUo-Ix_fEEGOZHUtzbT3SV4X-cFV34RUA=");
+ 
   }
   10% {
     background-image: url("https://media.istockphoto.com/id/1341288649/photo/75mpix-panorama-of-beautiful-mount-ama-dablam-in-himalayas-nepal.jpg?s=612x612&w=0&k=20&c=0xb_bb-NBIxjiJL_kqY-o3dCjv2PmKFZfRjHcVEijDc=");
@@ -286,6 +288,8 @@ a {
 
 .head-imease {
   animation: background-imease 120s linear infinite;
+   background-image: url("https://media.istockphoto.com/id/475166492/photo/summer-background-page.jpg?s=612x612&w=0&k=20&c=18t8tZ5-CIsUo-Ix_fEEGOZHUtzbT3SV4X-cFV34RUA=");
+ 
   height: 72vmin;
   width: 100%;
   margin-top: 10vmin;
