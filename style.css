@@ -359,12 +359,12 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0b057f;
+  background-color: #0a0652;
   padding: 1vmin;
 }
 .category ul {
   display: flex;
-  height: 8vmin;
+  height: 10vmin;
   justify-content: flex-start;
   flex-wrap: nowrap;
   overflow-x: scroll;
@@ -381,11 +381,12 @@ main {
   width: auto;
   flex-wrap: nowrap;
   height: 5vmin;
+  padding: 5px;
   margin-left: 1vh;
   font-size: 1em;
-  border-radius: 10px;
+  border-radius: 4px;
   box-shadow: 2px 2px 3px black, -1px -1px 3px white;
-  background-color: #1552af;
+  background-color: #026097;
   border: 2px solid beige;
   color: #ffffff;
   font-family: Georgia, "Times New Roman", Times, serif;
