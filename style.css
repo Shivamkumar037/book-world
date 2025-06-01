@@ -49,6 +49,7 @@ body {
     background-size: cover;
     border: 2px solid white;
     box-shadow: 2px 2px 2px black;
+      background-image: url('https://media.licdn.com/dms/image/v2/D5603AQFjAhzcFI1heA/profile-displayphoto-shrink_400_400/B56ZPqTH0eHoAg-/0/1734802703024?e=1753315200&v=beta&t=Czu2Oz5BjyQ-ZRlyTXZIMEW8y5HerhdkVzFYDLyVK7E');
   }
   .nav-bar .nav-man {
     position: relative;
